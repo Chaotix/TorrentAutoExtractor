@@ -1,0 +1,106 @@
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\AppData\Local\Temporary Projects\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.config
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.manifest
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.application
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe.manifest
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.application
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.config
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.xml
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.pdb
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.manifest
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.application
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.pdb
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.xml
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe.manifest
+\\NOSC-FS-03\RedirectedFolder$\jason.masingale.ctr\My Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.application
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.config
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.xml
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.pdb
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe.manifest
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.application
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.exe
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.pdb
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\TorrentAutoExtractor.xml
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.exe.manifest
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.application
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.MsgBoxTimer.resources
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.MsgBoxTimer.resources
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.vbproj.ResolveComReference.cache
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.vbproj.ResolveComReference.cache
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Monitor.resources
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.MsgBoxTimer.resources
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.Resources.resources
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe.config
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe.manifest
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.application
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.pdb
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.xml
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.exe.manifest
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.application
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.exe
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.xml
+C:\Users\Empyrials\Desktop\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.pdb
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe.config
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.vbproj.ResolveComReference.cache
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.exe
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.xml
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.pdb
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe.manifest
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.application
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.pdb
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.xml
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.exe.manifest
+C:\Users\Empyrials\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.application
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Release\Torrent Monitor.exe.config
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\TorrentAutoExtractor.vbproj.ResolveComReference.cache
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.exe
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.xml
+C:\Users\Empyrials\Documents\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Release\Torrent Monitor.pdb

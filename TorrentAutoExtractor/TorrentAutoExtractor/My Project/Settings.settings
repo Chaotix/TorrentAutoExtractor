@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="dirUnRar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="dirComTor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="dirMovDl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="dirMovExt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="dirTVDl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="ext" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.torrent</Value>
+    </Setting>
+    <Setting Name="dirTVExt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="NotifyYorN" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GroupToggle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LVSName" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LVSDesc" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LVSDate" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LVSTime" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LVSGroup" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LVSMade" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Filters" Type="System.String" Scope="User">
+      <Value Profile="(Default)">s#?*e#?</Value>
+    </Setting>
+    <Setting Name="dirTVUnSor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Double Click to set directory</Value>
+    </Setting>
+    <Setting Name="WinStartUp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartupMin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RenamingFilters" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TS, CAM, AC3, xvid, DVDSCR, DVDR, DVDRip, BDRip, PROPER, HDTV, PDTV, [REQ], PAL, NTSC</Value>
+    </Setting>
+    <Setting Name="MovieNaming" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{Name} {Year} - {HD}</Value>
+    </Setting>
+    <Setting Name="TVNaming" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{Name} - {Season} - {Episode} - {Title} - {HD}</Value>
+    </Setting>
+    <Setting Name="FileIgnoreSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50000</Value>
+    </Setting>
+    <Setting Name="FileExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.mkv .m4v .avi .mp4 .flv</Value>
+    </Setting>
+    <Setting Name="OverRide" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MaxRename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ProcessAllTors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">496, 206</Value>
+    </Setting>
+    <Setting Name="ColumnSizes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">153:112:73:75:79:0:0</Value>
+    </Setting>
+    <Setting Name="LVSPath" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CleanUp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

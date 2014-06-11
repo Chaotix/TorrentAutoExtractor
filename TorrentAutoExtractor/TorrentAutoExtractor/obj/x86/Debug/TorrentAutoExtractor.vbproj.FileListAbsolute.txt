@@ -1,0 +1,12 @@
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Debug\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Debug\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Debug\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\TorrentAutoExtractor.Monitor.resources
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\TorrentAutoExtractor.Resources.resources
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\TorrentAutoExtractor.exe
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\TorrentAutoExtractor.xml
+C:\Users\jason.masingale.ctr\documents\visual studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\obj\x86\Debug\TorrentAutoExtractor.pdb
+C:\Users\jason.masingale.ctr\Documents\Visual Studio 2010\Projects\TorrentAutoExtractor\TorrentAutoExtractor\bin\Debug\TorrentAutoExtractor.exe.config

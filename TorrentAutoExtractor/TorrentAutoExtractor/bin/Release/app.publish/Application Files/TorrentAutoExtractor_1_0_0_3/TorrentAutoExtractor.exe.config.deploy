@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+      <section name="TorrentAutoExtractor.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <userSettings>
+    <TorrentAutoExtractor.My.MySettings>
+      <setting name="dir1" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="dir2" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="dir3" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="dir4" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="dir5" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="ext1" serializeAs="String">
+        <value>*.*</value>
+      </setting>
+      <setting name="dir6" serializeAs="String">
+        <value>c:\</value>
+      </setting>
+      <setting name="NotifyYorN" serializeAs="String">
+        <value>True</value>
+      </setting>
+      <setting name="AutoStart" serializeAs="String">
+        <value>False</value>
+      </setting>
+    </TorrentAutoExtractor.My.MySettings>
+  </userSettings>
+</configuration>
